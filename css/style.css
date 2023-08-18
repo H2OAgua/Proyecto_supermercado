@@ -1,0 +1,32 @@
+#carrusel1{
+    margin: auto;
+    height: 850px;
+    width: 1920px;
+    padding-left: 5%;
+    padding-right: 5%;
+    object-fit: contain;
+}
+
+#carrusel2{
+    margin: auto;
+    height: 850px;
+    width: 900;
+    padding-left: 5%;
+    padding-right: 5%;
+    object-fit: contain;
+}
+
+#carrusel3{
+    margin: auto;
+    height: 850px;
+    width: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    object-fit: contain;
+}
+
+.card{
+    text-align: center;
+    margin: auto;
+}
+
